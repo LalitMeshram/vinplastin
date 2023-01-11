@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Webster - Responsive Multi-purpose HTML5 Template" />
-<meta name="author" content="potenzaglobalsolutions.com" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Injection Moulding products,Plastic Moulded,Articles">
+<meta name="keywords" content="Manufacturing," />
+<meta name="description" content="VINPLASTIN - Manufacturing & Supplier of Injection Moulding products & Plastic Moulded Articles" />
+<meta name="author" content="vinplastin.com" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <title>Webster - Responsive Multi-purpose HTML5 Template</title>
 
