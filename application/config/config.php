@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://www.test.vinplastin.com/';
+$config['base_url'] = 'https://www.test.vinplastin.com/';
 /*
-$config['base_url'] = 'http://www.vinplastin.com/';
+$config['base_url'] = 'https://www.vinplastin.com/';
 $config['base_url'] = 'http://localhost/vinplastin/';*/
 /*
 |--------------------------------------------------------------------------
