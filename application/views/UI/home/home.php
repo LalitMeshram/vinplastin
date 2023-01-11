@@ -53,19 +53,20 @@
                     <img class="img-fluid" src="demo-categories/marketing/images/about/01.jpg" alt="">
                   </div>
                   <div class="col-lg-4 sm-mb-30">
-                    <h4 class="mb-20">We're creative agency </h4>
-                      <p>Positive pleasure-oriented goals are much more powerful motivators than negative fear-based ones. Although each is successful.</p>
-                      <a class="button gray mt-10" href="#"> get a quote  </a>
+                    <h4 class="mb-20">We're Manufacturing Company </h4>
+                      <p>Manufacturing & Supplier of Injection Moulding products & Plastic Moulded Articles.</p>
+                      <!--a class="button gray mt-10" href="#"> get a quote  </a-->
                   </div>
                   <div class="col-lg-4">
                      <h4 class="mb-20">Our services </h4>
                      <ul class="list list-mark">
-                        <li> Award-winning design</li>
-                        <li> Super Fast Customer support </li>
-                        <li> Email Design </li>
-                        <li> Easy to Customize pages</li>
-                        <li> Starter Replacement</li>
-                        <li> Powerful Performance </li>
+                        <li> HouseHold</li>
+                        <li> Electrical</li>
+                        <li> Plumbing </li>
+                        <li> Agricuture</li>
+                        <li> Industrial</li>
+                        <li> Medical</li>
+                        <li> Automobiles</li>
                       </ul>
                   </div>
                </div>
