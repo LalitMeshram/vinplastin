@@ -6,12 +6,12 @@ page-title-->
     <div class="row">
       <div class="col-lg-8">
         <div class="page-title-name text-start">
-          <h1>About marketer</h1>
-          <p>Positive pleasure-oriented goals are much more powerful motivators than negative fear-based ones. Although each is successful separately, the right combination of both is the most powerful motivational force known to humankind.</p>
+          <h1>About Us</h1>
+          <p>Vinplast International Has Been One Of India Largest Manufacturers & suppliers of Injection Moulding products & Plastic Moulded Articles.</p>
         </div>
         <ul class="page-breadcrumb text-start">
           <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-          <li><span>About marketer</span> </li>
+          <li><span>About Us</span> </li>
         </ul>
       </div>
     </div>
@@ -130,30 +130,29 @@ our activities -->
             <h2 class="title">Get to know <span class="theme-bg"> us better </span> </h2>
             <p>Who we are and what we do </p>
           </div>
-          <p>Let's make something great together consectetur adipisicing elit. <span class="theme-color" data-bs-toggle="tooltip" data-bs-placement="top" title="HTML5 template">Webster</span>  conseqt quibusdam, enim expedita sed quia nesciunt. </p>
-          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback. Commit the plan to paper and then keep it with you at all times. Review it regularly and ensure that every step takes you closer to your Vision and Goals. If the plan doesn’t support the vision then change it!</p>
-          <p class="mt-30">Success isn’t really that difficult. There is a significant portion of the population here in North America, that actually want and need success to be hard! Why? So they then have a built-in excuse when things don’t go their way! Pretty sad situation, to say the least.</p>
-          <div class="marketing-action-box mt-30">
-            <div class="action-box gray-bg">
-              <h4 class="mb-0">Exclusive multi-purpose 100% responsive template</h4>
-              <div class="popup-video-image popup-gallery">
-                <a class="popup-youtube" href="https://www.youtube.com/watch?v=LgvseYYhqU0"> <i class="fa fa-play"></i> </a>
-             </div>
-            </div>
-          </div>
+          <p>Vinplast International Has Been One Of India Largest Manufacturers & suppliers of Injection Moulding products & Plastic Moulded Articles. </p>
+          <p>
+For smooth and systematic execution of all business operations, we have established an sophisticated and robustly constructed infrastructural set-up at our premises. Our hi-tech infrastructure has contributed towards the tremendous growth and success of our company. We have systematically partitioned our entire infrastructure into varied specialized categories like production, quality checking, administrative, research and development, sales & marketing and many others.</p>
+          <p class="mt-30"></p>
+          
           <div class="row mt-50">
            <div class="col-md-6">
             <h2 class="mb-20">Who we are</h2>
-            <strong>The first thing to remember about success is that it is a process – nothing more, nothing less.  </strong>
-            <p class="mt-20">For those of you who are serious about having more, doing more, giving more and being more, success is achievable with some understanding of what to do, some discipline around planning and execution of those plans and belief that you can achieve your desires.</p>
+            <strong>Manufacturing & Supplier of Injection Moulding products & Plastic Moulded Articles.  </strong>
+            
+            <p class="mt-20">Widely applicable in various industries, these products are designed & manufactured using the best quality raw material by our skilled professionals</p>
+            <p class="mt-20">They served these products by making innovations in processing methods, adapting to the new trends and advancing with the most sophisticated plastic Injection Moulding Machines.Also, we provide our clients with varied and effectively executed a range of services under the following areas.</p>
+            <p class="mt-20">Also, we provide our clients with varied and effectively executed a range of services under the following areas.</p>
             <ul class="list list-mark mt-30">
-              <li> Award-winning design</li>
-              <li> Super Fast Customer support </li>
-              <li> Email Design </li>
-              <li> Easy to Customize pages</li>
-              <li> Powerful Performance </li>
+              <li> HouseHold</li>
+              <li> Electrical </li>
+              <li> Plumbing </li>
+              <li> Agricuture </li>
+              <li> Industrial </li>
+              <li> Medical </li>
+              <li> Automobiles </li>
             </ul>
-            <a class="button mt-30" href="#">Read more</a>
+            
         </div>
         <div class="col-md-6 sm-mt-30">
            <img class="img-fluid" src="images/blog/03.jpg" alt="">
@@ -161,12 +160,12 @@ our activities -->
              <h3>Our skill makes our clients</h3>
              <div class="skill skill-medium">
                 <div class="skill-bar" data-color="#d12326" data-percent="85" data-delay="0" data-type="%">
-                    <div class="skill-title">HTML5</div>
+                    <div class="skill-title">Injection Moulding products</div>
                 </div>
              </div>
              <div class="skill skill-medium">
                 <div class="skill-bar" data-color="#d12326" data-percent="90" data-delay="0" data-type="%">
-                    <div class="skill-title">CSS3</div>
+                    <div class="skill-title">Plastic Moulded Articles</div>
                 </div>
              </div>
            </div>
@@ -176,7 +175,7 @@ our activities -->
      </div>
       <div class="row mt-50">
        <div class="col-lg-12">
-         <h4>Fortune 500 companies and world-class brands have leveraged our IT consulting services to improve their digital strategies. </h4>
+         <h4></h4>
        </div>
      </div>
      <div class="row justify-content-center">
