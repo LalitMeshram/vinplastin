@@ -8,11 +8,11 @@
       <div class="footer-useful-link footer-hedding">
         <h6 class="text-white mb-30 mt-10 text-uppercase">Navigation</h6>
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Service</a></li>
-          <li><a href="#">Team</a></li>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="<?php echo base_url("home");?>">Home</a></li>
+          <li><a href="<?php echo base_url("about");?>">About Us</a></li>
+          <li><a href="<?php echo base_url("services");?>">Services</a></li>
+          <li><a href="<?php echo base_url("work");?>">Work</a></li>
+          <li><a href="<?php echo base_url("contact");?>">Contact Us</a></li>
         </ul>
       </div>
     </div>
@@ -21,8 +21,8 @@
     <h6 class="text-white mb-30 mt-10 text-uppercase">Contact Us</h6>
     <ul class="addresss-info">
         <li><i class="fa fa-map-marker"></i> <p>Address: 17504 Carlton Cuevas Rd, Gulfport, MS, 39503</p> </li>
-        <li><i class="fa fa-phone"></i> <a href="tel:7042791249"> <span>+(704) 279-1249 </span> </a> </li>
-        <li><i class="fa fa-envelope-o"></i>Email: letstalk@webster.com</li>
+        <li><i class="fa fa-phone"></i> <a href="tel:+919579323562"> <span>+(91) 9579323562 </span> </a> </li>
+        <li><i class="fa fa-envelope-o"></i>Email: info@vinplastin.com</li>
       </ul>
     </div>
     <div class="col-lg-4 col-sm-6">
