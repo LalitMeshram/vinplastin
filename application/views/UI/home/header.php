@@ -12,8 +12,8 @@
       <div class="col-lg-6 col-md-6 xs-mb-10">
         <div class="topbar-call text-center text-md-start">
           <ul>
-            <li><i class="fa fa-envelope-o theme-color"></i> gethelp@webster.com</li>
-             <li><i class="fa fa-phone"></i> <a href="tel:+7042791249"> <span>+(704) 279-1249 </span> </a> </li>
+            <li><i class="fa fa-envelope-o theme-color"></i> info@vinplastin.com</li>
+             <li><i class="fa fa-phone"></i> <a href="tel:+919579323562"> <span>+(91) 9579323562 </span> </a> </li>
           </ul>
         </div>
       </div>

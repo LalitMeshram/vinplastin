@@ -7,10 +7,10 @@
 <meta name="description" content="VINPLASTIN - Manufacturing & Supplier of Injection Moulding products & Plastic Moulded Articles" />
 <meta name="author" content="vinplastin.com" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>Webster - Responsive Multi-purpose HTML5 Template</title>
+<title>VINPLASTIN - Manufacturing & Supplier of Injection Moulding products & Plastic Moulded Articles</title>
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="<?php echo base_url(); ?>uiresource/images/favicon.ico" />
+<link rel="shortcut icon" href="<?php echo base_url(); ?>uiresource/img/logo2.png" />
 
 <!-- font -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900">
