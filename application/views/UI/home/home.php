@@ -50,11 +50,11 @@
             <div class="tab-pane fade active show" id="who-are" role="tabpanel" aria-labelledby="who-are-tab">
                <div class="row">
                   <div class="col-lg-4 sm-mb-30">
-                    <img class="img-fluid" src="demo-categories/marketing/images/about/01.jpg" alt="">
+                    <img class="img-fluid" src="<?php echo base_url();?>uiresource/img/5.jpg" alt="">
                   </div>
                   <div class="col-lg-4 sm-mb-30">
                     <h4 class="mb-20">We're Manufacturing Company </h4>
-                      <p>Manufacturing & Supplier of Injection Moulding products & Plastic Moulded Articles.</p>
+                      <p>Vinplast International has been one of Indian largest Manufacturer & Supplier of Injection Moulding products & Plastic Moulded Articles.</p>
                       <!--a class="button gray mt-10" href="#"> get a quote  </a-->
                   </div>
                   <div class="col-lg-4">
