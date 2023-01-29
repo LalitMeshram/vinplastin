@@ -7,7 +7,7 @@ page-title-->
       <div class="col-lg-8">
         <div class="page-title-name text-start">
           <h1>About Us</h1>
-          <p>Vinplast International Has Been One Of India Largest Manufacturers & suppliers of Injection Moulding products & Plastic Moulded Articles.</p>
+          <p>Vinplast International is the leading manufacturer of precision injection moulded product and plastic articles.</p>
         </div>
         <ul class="page-breadcrumb text-start">
           <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
@@ -81,43 +81,7 @@ our activities -->
       <div class="sidebar-widget mt-40 d-grid">
         <a class="button" href="#"> <i class="fa fa-file-pdf-o""></i>  PDF presentation </a>
       </div>
-       <div class="sidebar-widget">
-        <h4 class="mt-40 mb-20">Testimonials</h4>
-         <div class="owl-carousel" data-nav-dots="false" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1">
-             <div class="item">
-               <div class="testimonial-widget">
-                 <div class="testimonial-content">
-                   <p>Webster provide me consectetur adipisicing elit. Voluptatum dignissimos amet numquam at est eum libero repellat reiciendis! Accusamus quibusdam.</p>
-                 </div>
-                 <div class="testimonial-info mt-20">
-                   <div class="testimonial-avtar">
-                     <img class="img-fluid" src="images/team/01.jpg" alt="">
-                   </div>
-                   <div class="testimonial-name">
-                     <strong>Michael Bean</strong>
-                     <span>Project Manager</span>
-                   </div>
-                 </div>
-               </div>
-             </div>
-             <div class="item">
-               <div class="testimonial-widget">
-                 <div class="testimonial-content">
-                   <p>I am happy with webster service adipisicing elit. Voluptatum dignissimos amet libero repellat reiciendis! Accusamus quibusdam numquam at est eum. </p>
-                 </div>
-                 <div class="testimonial-info mt-20">
-                   <div class="testimonial-avtar">
-                     <img class="img-fluid" src="images/team/02.jpg" alt="">
-                   </div>
-                   <div class="testimonial-name">
-                     <strong>Paul Flavius</strong>
-                     <span>Design</span>
-                   </div>
-                 </div>
-               </div>
-             </div>
-          </div>
-       </div>
+       
     </div>
    </div>
   <div class="col-lg-9">
@@ -130,9 +94,9 @@ our activities -->
             <h2 class="title">Get to know <span class="theme-bg"> us better </span> </h2>
             <p>Who we are and what we do </p>
           </div>
-          <p>Vinplast International Has Been One Of India Largest Manufacturers & suppliers of Injection Moulding products & Plastic Moulded Articles. </p>
-          <p>
-For smooth and systematic execution of all business operations, we have established an sophisticated and robustly constructed infrastructural set-up at our premises. Our hi-tech infrastructure has contributed towards the tremendous growth and success of our company. We have systematically partitioned our entire infrastructure into varied specialized categories like production, quality checking, administrative, research and development, sales & marketing and many others.</p>
+          <p>Vinplast International was established in 2021 with the Aim of Developing of Precision plastic products and innovation in the field of plastic. </p>
+          <p>Vinplast International offers services like Manufacturing different product,new Moulds trial and job works from different industries like automobile and engineering sectors etc.</p>
+          <p>For smooth and systematic execution of all business operations, we have established an sophisticated and robustly constructed infrastructural set-up at our premises. Our hi-tech infrastructure has contributed towards the tremendous growth and success of our company. We have systematically partitioned our entire infrastructure into varied specialized categories like production, quality checking, administrative, research and development, sales & marketing and many others.</p>
           <p class="mt-30"></p>
           
           <div class="row mt-50">
