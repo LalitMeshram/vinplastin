@@ -7,7 +7,7 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-5 col-md-5 align-self-center text-end">
-          <p class="text-white">Vinplast International has been one of Indian largest extruders and converters of polyethylene sheeting and packaging for almost 10 years.</p>
+          <p class="text-white">Vinplast International is the leading manufacturer of precision injection moulded product and plastic articles.</p>
         </div>
         <div class="col-lg-5 col-md-5 align-self-center">
           <div class="slider-content">
@@ -52,41 +52,34 @@
                   <div class="col-lg-4 sm-mb-30">
                     <img class="img-fluid" src="<?php echo base_url();?>uiresource/img/5.jpg" alt="">
                   </div>
-                  <div class="col-lg-4 sm-mb-30">
+                  <div class="col-lg-5 sm-mb-30">
                     <h4 class="mb-20">We're Manufacturing Company </h4>
-                      <p>Vinplast International has been one of Indian largest Manufacturer & Supplier of Injection Moulding products & Plastic Moulded Articles.</p>
+                      <p>Vinplast International is manufacturing high quaility engineering and domastic product, material using like nylon-66,ABS,Glass field PP,Polycarbonate,Polystryne,PP,HDPE,LDPE etc.</p>
                       <!--a class="button gray mt-10" href="#"> get a quote  </a-->
                   </div>
-                  <div class="col-lg-4">
-                     <h4 class="mb-20">Our services </h4>
+                  <div class="col-lg-3">
+                     <h4 class="mb-20">Other services </h4>
                      <ul class="list list-mark">
-                        <li> HouseHold</li>
-                        <li> Electrical</li>
-                        <li> Plumbing </li>
-                        <li> Agricuture</li>
-                        <li> Industrial</li>
-                        <li> Medical</li>
-                        <li> Automobiles</li>
-                      </ul>
+                        <li> All Kinds of job work</li>
+                        <li> New Moulds trial</li>
+                        <li> Manufacturing Activities</li>
+                    </ul>
                   </div>
                </div>
             </div>
             <div class="tab-pane fade" id="our-vision" role="tabpanel" aria-labelledby="our-vision-tab">
              <div class="row">
                   <div class="col-lg-8 sm-mb-30">
-                    <h4 class="mb-20">Research, creation, production </h4>
-                      <p>Do it today. Remind yourself of someone you know who died suddenly and the fact that there is no guarantee that tomorrow come.</p>
-                      <p>Franklin’s extraordinary success in life and politics can be attributed to his perseverance to overcome his personal liabilities.</p>
-                     <h2 class="theme-color mt-30"> <a href="#"> +91 8007015819 </a></h2>
+                    <h4 class="mb-20">Our Vision </h4>
+                      <p>In the favor of plastic industry, our vision is to develop cost-effective plastic products and articles, innovative  with a quality product as per customer requirement.</p>
+                      
+                     <h2 class="theme-color mt-30"> <a href="#"> +91 9579323562 </a></h2>
                   </div>
                   <div class="col-lg-4">
                      <h4 class="mb-20">Our vision list </h4>
                      <ul class="list list-mark">
-                        <li> Award-winning design</li>
                         <li> Super Fast Customer support </li>
-                        <li> Email Design </li>
-                        <li> Easy to Customize pages</li>
-                        <li> Starter Replacement</li>
+                        <li> Easy to Customize Product</li>
                         <li> Powerful Performance </li>
                       </ul>
                   </div>
@@ -94,20 +87,21 @@
             </div>
             <div class="tab-pane fade" id="our-mission" role="tabpanel" aria-labelledby="our-mission-tab">
              <div class="row">
-                  <div class="col-lg-4 sm-mb-30">
-                    <h4 class="mb-20">We're creative agency </h4>
-                      <p>Let success motivate you. Find a picture of what epitomizes success to you and then pull it out when you are in need of motivation.</p>
-                      <a class="button gray mt-10" href="#"> get a quote </a>
+                  <div class="col-lg-6 sm-mb-30">
+                    <h4 class="mb-20">Our Mission </h4>
+                      <p>To meet the global standard of quality in the market.</p>
+                      <p>To Build a long-term relationship with customers & client.</p>
+                      <p>Provide Exceptional customer services through innovative & advanced technology.</p>
+                      
                   </div>
-                  <div class="col-lg-4 sm-mb-30">
+                  <div class="col-lg-5 sm-mb-30">
                      <h4 class="mb-20">Our Goals </h4>
                      <ul class="list list-mark">
-                        <li> Award-winning design</li>
-                        <li> Super Fast Customer support </li>
-                        <li> Email Design </li>
-                        <li> Easy to Customize pages</li>
-                        <li> Starter Replacement</li>
-                        <li> Powerful Performance </li>
+                        <li> Customer satisfaction. </li>
+                        <li> On-time Delivery. </li>
+                        <li> Teamwork through Empowerment. </li>
+                        <li> Embrace and implement new technology. </li>
+                        
                       </ul>
                   </div>
                   <div class="col-lg-4">
@@ -117,25 +111,22 @@
             </div>
             <div class="tab-pane fade" id="our-history" role="tabpanel" aria-labelledby="our-history-tab">
               <div class="row">
-                  <div class="col-lg-4 sm-mb-30">
-                    <h4 class="mb-20">Since 1994</h4>
-                      <p>Reflect and experiment until you find the right combination of motivators for your personality and your personal goals.</p>
-                      <p>Do it today. Remind yourself of someone you know who died suddenly.</p>
+                  <div class="col-lg-5 sm-mb-30">
+                    <h4 class="mb-20">Our History</h4>
+                      <p>Vinplast International was established in 2021 with the Aim of Developing of Precision plastic products and innovation in the field of plastic.</p>
+                      <p>Vinplast International is a Manufacturer & Supplier of Injection Moulding products & Plastic Moulded Articles.</p>
                   </div>
-                  <div class="col-lg-4 sm-mb-30">
-                      <p>The fact that there is no guarantee that tomorrow come.</p>
-                      <p>Franklin’s extraordinary success in life and politics can be attributed to his perseverance to overcome his personal liabilities.</p>
-                      <a class="button mt-10" href="#"> get a quote </a>
-                  </div>
+                  <!--div class="col-lg-2 sm-mb-30">
+                  
+                  </div -->
                   <div class="col-lg-4">
                      <h4 class="mb-20">Our achievements </h4>
                      <ul class="list list-mark">
                         <li> Award-winning design</li>
                         <li> Super Fast Customer support </li>
-                        <li> Email Design </li>
-                        <li> Easy to Customize pages</li>
-                        <li> Starter Replacement</li>
+                        <li> Easy to Customize Product</li>
                         <li> Powerful Performance </li>
+                        <li> All Kinds of job work </li>
                       </ul>
                   </div>
                </div>

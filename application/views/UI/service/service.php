@@ -1,17 +1,17 @@
 <!--=================================
 page-title-->
 
-<section class="page-title center bg-overlay-theme-50 jarallax" data-speed="0.6" data-img-src="images/02.jpg">
+<section class="page-title center bg-overlay-theme-50 jarallax" data-speed="0.6" data-img-src="<?php echo base_url();?>uiresource/img/banner7.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-8">
         <div class="page-title-name text-start">
-          <h1>Professional Services</h1>
-          <p>Positive pleasure-oriented goals are much more powerful motivators than negative fear-based ones. Although each is successful separately, the right combination of both is the most powerful motivational force known to humankind.</p>
+          <h1></h1>
+          <p></p>
         </div>
         <ul class="page-breadcrumb text-start">
           <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-          <li><span>Professional Services</span> </li>
+          <li><span>Services</span> </li>
         </ul>
       </div>
     </div>
@@ -88,62 +88,38 @@ page-title -->
         <img class="img-fluid mx-auto" src="images/about/01.jpg" alt="">
       </div>
       <div class="col-lg-6 sm-mt-50 align-self-center">
-        <div class="section-title mb-20">
+        <div class="section-title mb-10">
           <h2>Our Services </h2>
-          <p>Webster's ultimate, easy to use</p>
+          
         </div>
-        <p>Webster has powerful options & tools, unlimited designs, responsive framework and amazing support. We are dedicated to providing you with the. </p>
-        <p>We are dedicated to providing you with the best experience possible. Webster has powerful options & tools, unlimited designs, responsive framework and amazing support.</p>
+        <p>Vinplast International is a Manufacturer & Supplier of Injection Moulding products & Plastic Moulded Articles. </p>
+        <p>Provide Exceptional customer services through innovative & advanced technology and build a long-term relationship with customers & client.</p>
         <div class="divider my-3"></div>
-        <div class="row">
-          <div class="col-lg-4 col-sm-4 sm-mb-30">
-          <div class="counter counter-small">
-            <span class="timer mb-0" data-to="4905" data-speed="3000">4905</span>
-            <label class="mt-0">Projects</label>
-          </div>
-        </div>
-         <div class="col-lg-4 col-sm-4 sm-mb-30">
-          <div class="counter counter-small">
-            <span class="timer mb-0" data-to="975" data-speed="3000">975</span>
-            <label class="mt-0">Clients</label>
-          </div>
-        </div>
-         <div class="col-lg-4 col-sm-4 xs-mb-30">
-          <div class="counter counter-small">
-            <span class="timer mb-0" data-to="8782" data-speed="3000">8782</span>
-            <label class="mt-0">Hours Work</label>
-          </div>
-        </div>
-      </div>
+        
       </div>
    </div>
     <div class="row">
       <div class="col-lg-12">
         <div class="section-title mb-0  py-5">
-            <p>We truly care about our users and our product. We are dedicated to providing you with the best experience possible. </p>
+            <p>Manufacturing & Supplier of Injection Moulding products & Plastic Moulded Articles. </p>
         </div>
       </div>
     </div>
     <!-- video section -->
     <div class="row">
-      <div class="col-lg-6 col-md-6 mb-50 sm-mb-30">
-        <p>Webster has powerful options & tools, unlimited designs, responsive framework and amazing support. We are dedicated to providing you with the best experience possible. </p>
+      <div class="col-lg-12 col-md-12 mb-50 sm-mb-30">
+        <h4>Services</h4>
         <ul class="list list-mark">
-          <li> Award-winning design</li>
-          <li> Super Fast Customer support </li>
-          <li> Email Design </li>
-          <li> Easy to Customize pages</li>
-          <li> Powerful Performance </li>
+          <li> HouseHold</li>
+          <li> Electrical </li>
+          <li> plumbing </li>
+          <li> Agricuture</li>
+          <li> Industrial </li>
+          <li> Medical </li>
+          <li> Automobiles </li>
         </ul>
       </div>
-      <div class="col-lg-6 col-md-6 mb-50 sm-mb-30">
-        <div class="popup-video">
-          <img class="img-fluid full-width" src="images/blog/02.jpg" alt="">
-          <div class="play-video text-center">
-            <a class="view-video popup-youtube" href="https://www.youtube.com/watch?v=LgvseYYhqU0"> <i class="fa fa-play"></i> </a>
-          </div>
-        </div>
-      </div>
+      
     </div>
 
     <!-- Service Include The Benefits -->
