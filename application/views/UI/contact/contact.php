@@ -7,7 +7,7 @@ page-title-->
       <div class="col-lg-8">
         <div class="page-title-name text-start">
           <h1>Contact</h1>
-          <p>Positive pleasure-oriented goals are much more powerful motivators than negative fear-based ones. Although each is successful separately, the right combination of both is the most powerful motivational force known to humankind.</p>
+          <p>Vinplast International is the leading manufacturer of precision injection moulded product and plastic articles.</p>
         </div>
         <ul class="page-breadcrumb text-start">
           <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
