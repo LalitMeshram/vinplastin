@@ -53,7 +53,7 @@
          <ul class="drop-down-multilevel left-side">
                 <li><a href="<?php echo base_url('/about');?>">About</a> </li>
                 <li><a href="<?php echo base_url('/services');?>">services</a> </li>
-                <li><a href="<?php echo base_url('/history');?>">history</a> </li>
+                
         </ul>
           </li>
         <li><a href="<?php echo base_url('/work');?>">work </a> </li>
