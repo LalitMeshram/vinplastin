@@ -41,7 +41,7 @@ page-title -->
                   </div>
                   <div class="media-body">
                     <h5 class="text-white">ADDRESS</h5>
-                    <p class="mb-0 text-white">17504 Carlton Cuevas Rd, Gulfport, MS, 39503</p>
+                    <p class="mb-0 text-white">Plot No.W-102,MIDC Industrial Area,Hingna,Nagpur-440016(MS) INDIA</p>
                   </div>
                 </div>
               </div>
@@ -52,7 +52,7 @@ page-title -->
                   </div>
                   <div class="media-body">
                     <h5 class="text-white">PHONE</h5>
-                    <p class="mb-0 text-white">+(704) 279-1249</p>
+                    <p class="mb-0 text-white">+(91) 9579323562</p>
                   </div>
                 </div>
               </div>
@@ -63,7 +63,7 @@ page-title -->
                   </div>
                   <div class="media-body">
                     <h5 class="text-white">EMAIL</h5>
-                    <p class="mb-0 text-white">letstalk@webster.com</p>
+                    <p class="mb-0 text-white">info@vinplastin.com</p>
                   </div>
                 </div>
               </div>
@@ -108,7 +108,8 @@ page-title -->
     </div>
     <div class="row mt-60">
       <div class="col-lg-12">
-        <div style="width: 100%; height: 300px;" id="map-02" class="g-map" data-type='green'></div>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d232.6282660584311!2d78.9841141!3d21.1104827!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4954f04544f25%3A0x9aae053275193339!2sDiyewar%20Engineering!5e0!3m2!1sen!2sin!4v1676206137143!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <!--div style="width: 100%; height: 300px;" id="map-02" class="g-map" data-type='green'></div-->
       </div>
     </div>
   </div>
@@ -127,30 +128,22 @@ feature- -->
        <div class="col-lg-4 col-md-4 sm-mb-30">
         <div class="feature-text border h-100">
           <div class="feature-info">
-            <h5 class="text-back">New york</h5>
-            <p> 17504 Carlton Cuevas Rd, MS 39503</p>
-            <p class="mt-15">+(804) 178-1249</p>
+            <h5 class="text-back">Office Address</h5>
+            <p> 705,Ashirwad circle No.15/21, Lashkaribagh,Nagpur-440017(MS) India. </p>
+            <p class="mt-15">+(91) 9579323562</p>
           </div>
         </div>
        </div>
        <div class="col-lg-4 col-md-4 sm-mb-30">
         <div class="feature-text border h-100">
           <div class="feature-info">
-            <h5 class="text-back">London</h5>
-            <p>1234 North Avenue Luke, IN 360001</p>
-            <p class="mt-15">+(905) 379-4349</p>
+            <h5 class="text-back">Factory Address</h5>
+            <p>Plot No.W-102,MIDC Industrial Area,Hingna,Nagpur-440016(MS) India.</p>
+            <p class="mt-15">+(91) 9579323562</p>
           </div>
         </div>
        </div>
-       <div class="col-lg-4 col-md-4 sm-mb-30">
-        <div class="feature-text border h-100">
-          <div class="feature-info">
-            <h5 class="text-back">Paris</h5>
-            <p>44 Shirley Ave. West Chicago, IL 60185</p>
-            <p class="mt-15">+(704) 279-1249</p>
-          </div>
-        </div>
-       </div>
+       
     </div>
   </div>
 </section>
