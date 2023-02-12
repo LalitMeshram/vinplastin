@@ -1,7 +1,7 @@
 <!--=================================
 page-title-->
 
-<section class="page-title center bg-overlay-theme-50 jarallax" data-speed="0.6" data-img-src="images/01.jpg">
+<section class="page-title center bg-overlay-theme-50 jarallax" data-speed="0.6" data-img-src="<?php echo base_url(); ?>uiresource/img/banner1.png">
   <div class="container">
     <div class="row">
       <div class="col-lg-8">
