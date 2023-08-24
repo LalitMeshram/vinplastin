@@ -41,7 +41,7 @@ page-title -->
                   </div>
                   <div class="media-body">
                     <h5 class="text-white">ADDRESS</h5>
-                    <p class="mb-0 text-white">Plot No.W-102,MIDC Industrial Area,Hingna,Nagpur-440016(MS) INDIA</p>
+                    <p class="mb-0 text-white">Plot No.04,Near Amitasha Enterprises,Mohite Industrial Estate,MIDC.<br/>Hingna,Nagpur-440016(MS) INDIA</p>
                   </div>
                 </div>
               </div>
@@ -138,7 +138,7 @@ feature- -->
         <div class="feature-text border h-100">
           <div class="feature-info">
             <h5 class="text-back">Factory Address</h5>
-            <p>Plot No.W-102,MIDC Industrial Area,Hingna,Nagpur-440016(MS) India.</p>
+            <p>Plot No.04,Near Amitasha Enterprises,Mohite Industrial Estate,MIDC.<br/>Hingna,Nagpur-440016(MS) INDIA</p>
             <p class="mt-15">+(91) 9579323562</p>
           </div>
         </div>
