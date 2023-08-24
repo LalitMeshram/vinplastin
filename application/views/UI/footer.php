@@ -20,7 +20,7 @@
     <div class="col-lg-4 col-sm-6 xs-mb-30">
     <h6 class="text-white mb-30 mt-10 text-uppercase">Contact Us</h6>
     <ul class="addresss-info">
-        <li><i class="fa fa-map-marker"></i> <p>Address: Plot No.04,Near Amitasha Enterprises,Mohite Industrial Estate,MIDC,Hingna,Nagpur-440016(MS) INDIA</p> </li>
+        <li><i class="fa fa-map-marker"></i> <p>Address: Plot No.04,Near Amitasha Enterprises,Mohite Industrial Estate,MIDC.<br/>Hingna,Nagpur-440016(MS) INDIA</p> </li>
         <li><i class="fa fa-phone"></i> <a href="tel:+919579323562"> <span>+(91) 9579323562 </span> </a> </li>
         <li><i class="fa fa-phone"></i> <a href="tel:+919579323562"> <span>+(91) 7887551025 </span> </a> </li>
         <li><i class="fa fa-envelope-o"></i>Email: info@vinplastin.com</li>
